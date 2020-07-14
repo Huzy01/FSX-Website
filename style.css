@@ -1,0 +1,81 @@
+﻿.articlebg {
+	background-image:url('articlebg.jpg'); 
+	background-repeat:no-repeat; 
+	background-attachment: fixed;
+	background-size: cover;
+	 }
+.cheatbg {
+		background-image:url('Airplane.GIF'); 
+	background-repeat:no-repeat; 
+	background-attachment: fixed;
+	background-size: cover;
+}
+.copyright{
+	background-image:url('articlebg.jpg'); 
+	background-repeat:no-repeat; 
+	background-attachment: fixed;
+	background-size: cover;
+	 }
+	
+body {
+   font-family: Calibri;
+   color: white;
+ 
+}
+h1{
+    color: red;
+    font-size: 34px;
+}
+
+h3{
+    color: red;
+    font-size: 27px;
+}
+h2{
+    color: red;
+    font-size: 32px;
+}
+p {
+    color: white;
+  font-size: 25px;
+}
+#date{
+    font-size: 23px;
+}
+th {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #111111;
+}
+
+th a {
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+th a:hover {
+  background-color: black;
+  color: red;
+}
+video{
+  border: 1px solid white;
+  display: flex;
+  margin: auto;
+  
+  
+}
+table, th, td tr{
+  border: 1px solid white;
+}
+#cheatbg {
+	background-size: cover;
+	background-image: url("Airplane.GIF"); 
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	}
+
